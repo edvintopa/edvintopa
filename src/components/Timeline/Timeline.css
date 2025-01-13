@@ -69,17 +69,17 @@
 
 @media screen and (max-width: 600px) {
   .main-timeline-4::after {
-    left: 31px;
+    left: 0px;
   }
 
   .timeline-4 {
     width: 100%;
-    padding-left: 70px;
-    padding-right: 25px;
+    padding-left: 30px;
+    padding-right: 0px;
   }
 
   .timeline-4::before {
-    left: 60px;
+    left: 20px;
     border: medium solid white;
     border-width: 10px 10px 10px 0;
     border-color: transparent white transparent transparent;
@@ -87,7 +87,7 @@
 
   .left-4::after,
   .right-4::after {
-    left: 18px;
+    left: -14px;
   }
 
   .left-4::before {
