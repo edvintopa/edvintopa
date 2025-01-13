@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCode, faShop, faMap, faDollarSign } from '@fortawesome/free-solid-svg-icons';
+import { faPaperPlane, faShop, faMap, faDollarSign } from '@fortawesome/free-solid-svg-icons';
 import './Timeline.css';
 import timelineDataJson from '../../assets/data/timelineData.json';
 
 const iconMap = {
-  faCode,
+  faPaperPlane,
   faShop,
   faMap,
   faDollarSign

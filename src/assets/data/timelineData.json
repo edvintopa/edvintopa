@@ -2,7 +2,7 @@
   {
     "title": "AFRY",
     "date": "System Developer Intern • Fall of 2024",
-    "icon": "faCode",
+    "icon": "faPaperPlane",
     "description": "Worked on a cybersecurity-oriented project during this internship. The result was a large system that can provide timely and accurate information.",
     "badges": ["ASP", "Architecture", "Blazor", "Deployment", "IIS", "MudBlazor", ".NET", "Planning", "PostgreSQL", "Requirement analysis", "REST", "SQLite"]
   },
