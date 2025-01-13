@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/edvintopa/static/css/main.c2d08e6f.css",
+    "main.css": "/edvintopa/static/css/main.0b9267de.css",
     "main.js": "/edvintopa/static/js/main.8caf2cd6.js",
     "static/js/453.91c9c526.chunk.js": "/edvintopa/static/js/453.91c9c526.chunk.js",
     "index.html": "/edvintopa/index.html",
-    "main.c2d08e6f.css.map": "/edvintopa/static/css/main.c2d08e6f.css.map",
+    "main.0b9267de.css.map": "/edvintopa/static/css/main.0b9267de.css.map",
     "main.8caf2cd6.js.map": "/edvintopa/static/js/main.8caf2cd6.js.map",
     "453.91c9c526.chunk.js.map": "/edvintopa/static/js/453.91c9c526.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2d08e6f.css",
+    "static/css/main.0b9267de.css",
     "static/js/main.8caf2cd6.js"
   ]
 }
