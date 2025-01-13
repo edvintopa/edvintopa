@@ -1,0 +1,10 @@
+.landing-page {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .landing-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
