@@ -120,11 +120,12 @@
   margin-bottom: 5px;
 }
 
-.company-logo {
-    position: absolute;
-    top: -12px;
-    left: -13px;
-    width: 100px;
-    height: 100px;
-    object-fit: contain;
-  }
+@keyframes pulse {
+  0% { transform: scale(1); background-color: rgb(244, 0, 0);; }
+  50% { transform: scale(1.1); background-color: red }
+  100% { transform: scale(1); background-color: rgb(244, 0, 0);; }
+}
+
+.flash-dot::after {
+  animation: pulse 1s infinite;
+}
