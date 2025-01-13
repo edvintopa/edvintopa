@@ -1,51 +1,37 @@
 [
   {
-    "title": "System developer",
-    "date": "September 2024",
+    "title": "AFRY",
+    "date": "System Developer Intern • Fall of 2024",
     "icon": "faCode",
-    "description": "Internship at AFRY as a system developer.",
-    "badges": [".NET", "PostgreSQL", "Blazor", "REST"]
+    "description": "Worked on a cybersecurity-oriented project during this internship. The result was a large system that can provide timely and accurate information.",
+    "badges": ["ASP", "Architecture", "Blazor", "Deployment", "IIS", "MudBlazor", ".NET", "Planning", "PostgreSQL", "Requirement analysis", "REST", "SQLite"]
   },
   {
-    "title": "8:00 AM",
-    "date": "May 18",
-    "icon": "faCamera",
-    "description": "Worked on several freelance projects.",
-    "badges": ["Freelance"]
+    "title": "Hobbyfynd.se",
+    "date": "System Developer • Fall of 2024",
+    "icon": "faShop",
+    "description": "Enhanced the functionality of Hobbyfynd.se, which is based on the Sharetribe no-code platform, by integrating Swish Payments and Postnord Shipping. This greatly improved usability for the target audience.",
+    "badges": ["Bootstrap", "Deployment", "Express", "Fullstack", "Graduate project", "Heroku", "Node.JS", "Planning", "Postnord API", "React", "Requirement analysis", "REST", "Sharetribe", "Swish API", "Vite"]
   },
   {
-    "title": "7:25 PM",
-    "date": "May 6",
-    "icon": "faCampground",
-    "description": "Joined a tech startup as a front-end developer.",
-    "badges": ["Startup"]
+    "title": "Mini Marketplace",
+    "date": "School project • Spring of 2024",
+    "icon": "faShop",
+    "description": "A simple and clean web-shop that can be used to buy and sell various things.",
+    "badges": ["Docker", "Java SpringBoot", "Planning", "React", "Requirement analysis", "Vite"]
   },
   {
-    "title": "3:55 PM",
-    "date": "Apr 26",
-    "icon": "faSun",
-    "description": "Learned React and built several applications.",
-    "badges": ["React"]
+    "title": "HotSpot",
+    "date": "School project • Fall of 2023",
+    "icon": "faMap",
+    "description": "A system that integrates with the Swedish Police API to display all reported events on a map. Users could search and filter by date, location, and event type.",
+    "badges": ["ASP.NET", "Docker", "Planning", "React"]
   },
   {
-    "title": "5:24 PM",
-    "date": "Apr 12",
-    "icon": "faPalette",
-    "description": "Started my own blog about web development.",
-    "badges": ["Blog"]
-  },
-  {
-    "title": "11:25 AM",
-    "date": "Apr 11",
-    "icon": "faLaughBeam",
-    "description": "Worked on open-source projects and contributed to the community.",
-    "badges": ["Open Source"]
-  },
-  {
-    "title": "12:30 PM",
-    "date": "Apr 5",
-    "icon": "faPizzaSlice",
-    "description": "Joined a multinational company as a senior developer.",
-    "badges": ["Senior Developer"]
+    "title": "CashTime",
+    "date": "School project • Spring of 2023",
+    "icon": "faDollarSign",
+    "description": "Development of CashTime, an application used to track hours worked. The app estimates the user's monthly salary by taking OB-hours and overtime into account.",
+    "badges": ["Flutter", "iOS", "Java", "Planning", "Requirement analysis", "Swift"]
   }
 ]

@@ -1,17 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCode, faCamera, faCampground, faSun, faPalette, faLaughBeam, faPizzaSlice } from '@fortawesome/free-solid-svg-icons';
+import { faCode, faShop, faMap, faDollarSign } from '@fortawesome/free-solid-svg-icons';
 import './Timeline.css';
 import timelineDataJson from '../../assets/data/timelineData.json';
 
 const iconMap = {
   faCode,
-  faCamera,
-  faCampground,
-  faSun,
-  faPalette,
-  faLaughBeam,
-  faPizzaSlice
+  faShop,
+  faMap,
+  faDollarSign
 };
 
 function Timeline() {
