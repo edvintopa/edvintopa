@@ -7,14 +7,12 @@ interface LayoutProps {
 
 function Layout({ children }: LayoutProps) {
   return (
-    <div className="flex h-screen">
-      <aside className="fixed left-0 top-0 h-full w-64 bg-gray-100">
-        <NavMenu />
-      </aside>
-      <main className="flex-1 ml-64 p-4">
+    <>
+      <NavMenu />
+      <main className="p-4 mt-16 md:ml-64 md:mt-0">
         {children}
       </main>
-    </div>
+    </>
   )
 }
 
