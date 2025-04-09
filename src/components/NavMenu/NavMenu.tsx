@@ -17,7 +17,7 @@ function NavMenu() {
           to={item.to}
           className={`px-4 py-1 rounded-full font-semibold transition-all duration-300 ${
             location.pathname === item.to
-              ? 'bg-neutral-800 text-white scale-105'
+              ? 'bg-neutral-800 dark:bg-neutral-600 text-white scale-105'
               : 'text-gray-800 dark:text-gray-200 hover:bg-neutral-200 dark:hover:bg-neutral-700'
           }`}
         >
