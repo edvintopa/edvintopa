@@ -1,4 +1,4 @@
-import ProjectCard from '../../components/ProjectCard/projectcard'
+import ProjectCard from '../../components/Cards/ProjectCard/ProjectCard'
 
 const sampleProjects = [
   {
