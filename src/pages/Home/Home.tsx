@@ -1,8 +1,49 @@
 function Home() {
   return (
-    <div>
-      <h1>Home Page</h1>
-      <p>Welcome to the Home Page!</p>
+    <div className="container mx-auto p-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+        <div className="bg-white dark:bg-neutral-800 rounded shadow p-4 col-span-1">
+          <h2 className="text-xl font-bold dark:text-white">Card 1</h2>
+          <p className="mt-2 dark:text-gray-300">This card takes one column.</p>
+        </div>
+        <div className="bg-white dark:bg-neutral-800 rounded shadow p-4 col-span-1 md:col-span-2">
+          <h2 className="text-xl font-bold dark:text-white">Card 2</h2>
+          <p className="mt-2 dark:text-gray-300">
+            On mobile, this is full width; on desktop, it takes two columns.
+          </p>
+        </div>
+        <div className="bg-white dark:bg-neutral-800 rounded shadow p-4 col-span-1">
+          <h2 className="text-xl font-bold dark:text-white">Card 3</h2>
+          <p className="mt-2 dark:text-gray-300">This card takes one column.</p>
+        </div>
+        <div className="bg-white dark:bg-neutral-800 rounded shadow p-4 col-span-1">
+          <h2 className="text-xl font-bold dark:text-white">Card 4</h2>
+          <p className="mt-2 dark:text-gray-300">This card takes one column.</p>
+        </div>
+        
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+        <div className="bg-white dark:bg-neutral-800 rounded shadow p-4 col-span-1">
+          <h2 className="text-xl font-bold dark:text-white">Card 1</h2>
+          <p className="mt-2 dark:text-gray-300">This card takes one column.</p>
+        </div>
+        <div className="bg-white dark:bg-neutral-800 rounded shadow p-4 col-span-1 md:col-span-2">
+          <h2 className="text-xl font-bold dark:text-white">Card 2</h2>
+          <p className="mt-2 dark:text-gray-300">
+            On mobile, this is full width; on desktop, it takes two columns.
+          </p>
+        </div>
+        <div className="bg-white dark:bg-neutral-800 rounded shadow p-4 col-span-1">
+          <h2 className="text-xl font-bold dark:text-white">Card 3</h2>
+          <p className="mt-2 dark:text-gray-300">This card takes one column.</p>
+        </div>
+        <div className="bg-white dark:bg-neutral-800 rounded shadow p-4 col-span-1">
+          <h2 className="text-xl font-bold dark:text-white">Card 4</h2>
+          <p className="mt-2 dark:text-gray-300">This card takes one column.</p>
+        </div>
+        
+      </div>
     </div>
   )
 }
