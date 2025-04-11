@@ -63,15 +63,79 @@
       ]
     },
     {
-      "header": "Project Beta",
-      "description": "Project Beta explores innovative design and creative concepts."
+      "header": "Mini Marketplace",
+      "description": "A school project where the team was tasked with creating an online store. The backend I built was done in Java Spring Boot and had security features such as authentication with JWT.",
+      "techStack": [
+        {
+          "name": "Docker",
+          "logo": "/edvintopa/logos/docker.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/edvintopa/logos/react.svg"
+        },
+        {
+          "name": "Vite",
+          "logo": "/edvintopa/logos/vite.svg"
+        },
+        {
+          "name": "Bootstrap CSS",
+          "logo": "/edvintopa/logos/bootstrap.svg"
+        },
+        {
+          "name": "TypeScript",
+          "logo": "/edvintopa/logos/typescript.svg"
+        },
+        {
+          "name": "Spring Boot",
+          "logo": "/edvintopa/logos/springboot.svg"
+        },
+        {
+          "name": "Java",
+          "logo": "/edvintopa/logos/java.svg"
+        }
+      ]
     },
     {
-      "header": "Project Beta",
-      "description": "Project Beta explores innovative design and creative concepts."
+      "header": "HotSpot",
+      "description": "A system that integrates with the Swedish Police API to display all reported events on a map. Users could search and filter by date, location, and event type.",
+      "techStack": [
+        {
+          "name": ".NET",
+          "logo": "/edvintopa/logos/dotnet.svg"
+        },
+        {
+          "name": "Docker",
+          "logo": "/edvintopa/logos/docker.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/edvintopa/logos/react.svg"
+        },
+        {
+          "name": "Bootstrap CSS",
+          "logo": "/edvintopa/logos/bootstrap.svg"
+        }
+      ]
     },
     {
-      "header": "Project Beta",
-      "description": "Project Beta explores innovative design and creative concepts."
+      "header": "CashTime",
+      "description": "Development of CashTime, an application used to track hours worked. The app estimates the user's monthly salary by taking OB-hours and overtime into account.",
+      "photoUrl": "",
+      "repoUrl": "",
+      "techStack": [
+        {
+          "name": "Swift",
+          "logo": "/edvintopa/logos/swift.svg"
+        },
+        {
+          "name": "Flutter",
+          "logo": "/edvintopa/logos/flutter.svg"
+        },
+        {
+          "name": "Java",
+          "logo": "/edvintopa/logos/java.svg"
+        }
+      ]
     }
   ]
