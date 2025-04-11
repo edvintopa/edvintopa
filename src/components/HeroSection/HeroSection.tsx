@@ -13,11 +13,11 @@ const HeroSection: React.FC = () => {
   }
 
   return (
-    <section className="flex flex-col items-center justify-center py-16 px-4">
+    <section className="flex flex-col items-center justify-center py-16 px-4 max-w-2xl">
       <h1 className="text-5xl md:text-7xl font-extrabold text-gray-900 dark:text-white mb-4 text-center">
         Let me introduce you to <span className="gradient-text">Quality</span>
       </h1>
-      <p className="text-lg text-gray-700 dark:text-gray-300 mb-8 max-w-3xl text-center">
+      <p className="text-lg text-gray-700 dark:text-gray-300 mb-8 max-w-4xl text-center">
         I’m Edvin, a full-stack system developer who designs an experience, both in terms of visually pleasing interfaces, but also robust and scalable backend functionality. Based in Malmö, Sweden.
       </p>
       <button
