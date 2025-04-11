@@ -28,6 +28,24 @@
       ]
     },
     {
+      "header": "Homelab",
+      "description": "My homelab is my hands-on learning space for experimenting with home automation, security, networking, and more, while I also self-host services like our family home-cloud for photos and data.",
+      "techStack": [
+        {
+          "name": "Proxmox",
+          "logo": "/edvintopa/logos/proxmox.svg"
+        },
+        {
+          "name": "Home Assistant",
+          "logo": "/edvintopa/logos/homeassistant.svg"
+        },
+        {
+          "name": "Docker",
+          "logo": "/edvintopa/logos/docker.svg"
+        }
+      ]
+    },
+    {
       "header": "Hobbyfynd.se",
       "description": "Integrated Swish and Postnord APIs for a better shopping experience for the users of Hobbyfynd.se. The backend was built using Node.js and Express while the frontend used mainly Bootstrap components. A CI/CD pipline allowed for automatic deployments to Heroku for my team.",
       "photoUrl": "/edvintopa/images/projects/hobbyfyndSE.png",
@@ -121,8 +139,7 @@
     {
       "header": "CashTime",
       "description": "Development of CashTime, an application used to track hours worked. The app estimates the user's monthly salary by taking OB-hours and overtime into account.",
-      "photoUrl": "",
-      "repoUrl": "",
+      "repoUrl": "https://github.com/edvintopa/CashTime",
       "techStack": [
         {
           "name": "Swift",
