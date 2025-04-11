@@ -18,7 +18,7 @@ const HeroSection: React.FC = () => {
         Let me introduce you to <span className="gradient-text">Quality</span>
       </h1>
       <p className="text-lg text-gray-700 dark:text-gray-300 mb-8 max-w-3xl text-center">
-        I’m Edvin, a full-stack developer who designs an experience, both in terms of visually pleasing interfaces, but also robust and scalable backend functionality.
+        I’m Edvin, a full-stack system developer who designs an experience, both in terms of visually pleasing interfaces, but also robust and scalable backend functionality. Based in Malmö, Sweden.
       </p>
       <button
         onClick={scrollToContent}
