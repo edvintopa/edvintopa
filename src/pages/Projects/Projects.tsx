@@ -5,7 +5,7 @@ import { motion } from 'framer-motion'
 function Projects() {
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-6 dark:text-white">Projects Page</h1>
+      <h1 className="text-3xl font-bold mb-6 dark:text-white">My Projects</h1>
       <div className="columns-1 md:columns-3 gap-6">
         {projects.map((project, index) => (
           <motion.div

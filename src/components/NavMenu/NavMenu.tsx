@@ -10,7 +10,7 @@ function NavMenu() {
   const location = useLocation()
 
   return (
-    <nav className="fixed bottom-4 md:top-4 md:bottom-auto left-1/2 transform -translate-x-1/2 bg-white/90 dark:bg-neutral-800/90 backdrop-blur-md shadow-lg rounded-full px-6 py-2 flex space-x-4 z-50">
+    <nav className="fixed bottom-4 md:top-4 md:bottom-auto left-1/2 transform -translate-x-1/2 bg-white/50 dark:bg-neutral-800/60 backdrop-blur-md shadow-lg rounded-full px-6 py-2 flex space-x-4 z-50">
       {navItems.map((item) => (
         <Link
           key={item.to}
