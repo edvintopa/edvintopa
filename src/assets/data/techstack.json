@@ -5,6 +5,11 @@
         "description": "Favourite backend and fullstack framework"
     },
     {
+        "icon": "/edvintopa/logos/mudblazor.png",
+        "title": "MudBlazor",
+        "description": "Component library for Blazor frontends"
+    },
+    {
         "icon": "/edvintopa/logos/typescript.svg",
         "title": "TypeScript",
         "description": "JavaScript++, awesome with types"
@@ -28,5 +33,10 @@
         "icon": "/edvintopa/logos/docker.svg",
         "title": "Docker",
         "description": "Great for deploying anywhere"
+    },
+    {
+        "icon": "/edvintopa/logos/drawio.svg",
+        "title": "Draw.io",
+        "description": "Quick n dirty sketches or UML diagrams"
     }
 ]
