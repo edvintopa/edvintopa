@@ -28,8 +28,39 @@
       ]
     },
     {
-      "header": "Project Beta",
-      "description": "Project Beta explores innovative design and creative concepts."
+      "header": "Hobbyfynd.se",
+      "description": "Integrated Swish and Postnord APIs for a better shopping experience for the users of Hobbyfynd.se. The backend was built using Node.js and Express while the frontend used mainly Bootstrap components. A CI/CD pipline allowed for automatic deployments to Heroku for my team.",
+      "photoUrl": "/edvintopa/images/projects/hobbyfyndSE.png",
+      "techStack": [
+        {
+          "name": "Bootstrap CSS",
+          "logo": "/edvintopa/logos/bootstrap.svg"
+        },
+        {
+          "name": "TypeScript",
+          "logo": "/edvintopa/logos/typescript.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/edvintopa/logos/react.svg"
+        },
+        {
+          "name": "Vite",
+          "logo": "/edvintopa/logos/vite.svg"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "/edvintopa/logos/javascript.svg"
+        },
+        {
+          "name": "Node.js",
+          "logo": "/edvintopa/logos/nodejs.svg"
+        },
+        {
+          "name": "Heroku",
+          "logo": "/edvintopa/logos/heroku.svg"
+        }
+      ]
     },
     {
       "header": "Project Beta",
