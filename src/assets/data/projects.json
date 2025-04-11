@@ -2,7 +2,21 @@
     {
       "header": "Project Alpha",
       "description": "Project Alpha is a fantastic project that demonstrates amazing functionality.",
-      "photoUrl": "/edvintopa/images/4k-oaax18kaapkokaro.jpg"
+      "photoUrl": "/edvintopa/images/4k-oaax18kaapkokaro.jpg",
+      "techStack": [
+        {
+          "name": "TypeScript",
+          "logo": "/edvintopa/logos/typescript.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "logo": "/edvintopa/logos/tailwind.svg"
+        },
+        {
+          "name": "React",
+          "logo": "/edvintopa/logos/react.svg"
+        }
+      ]
     },
     {
       "header": "Project Beta",
