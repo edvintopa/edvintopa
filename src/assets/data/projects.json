@@ -1,20 +1,29 @@
 [
     {
-      "header": "Project Alpha",
-      "description": "Project Alpha is a fantastic project that demonstrates amazing functionality.",
-      "photoUrl": "/edvintopa/images/4k-oaax18kaapkokaro.jpg",
+      "header": "Personal Portfolio",
+      "description": "A website built with TypeScript, React and Vite to tell the world about who I am. The entire page is styled using Tailwind and is hosted on GitHub Pages with the use of a simple CI/CD pipeline thorugh GitHub Actions.",
+      "photoUrl": "/edvintopa/images/projects/personal-portfolio.png",
+      "repoUrl": "https://github.com/edvintopa/edvintopa",
       "techStack": [
-        {
-          "name": "TypeScript",
-          "logo": "/edvintopa/logos/typescript.svg"
-        },
         {
           "name": "Tailwind CSS",
           "logo": "/edvintopa/logos/tailwind.svg"
         },
         {
+          "name": "TypeScript",
+          "logo": "/edvintopa/logos/typescript.svg"
+        },
+        {
           "name": "React",
           "logo": "/edvintopa/logos/react.svg"
+        },
+        {
+          "name": "Vite",
+          "logo": "/edvintopa/logos/vite.svg"
+        },
+        {
+          "name": "GitHub",
+          "logo": "/edvintopa/logos/github.svg"
         }
       ]
     },

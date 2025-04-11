@@ -7,6 +7,7 @@ type Project = {
     header: string
     description: string
     photoUrl?: string
+    repoUrl?: string
     techStack?: Tech[]
 }
   
@@ -15,9 +16,9 @@ type ProjectCardProps = {
 }
   
 const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
-    const { header, description, photoUrl, techStack } = project
-  
-    return (
+    const { header, description, photoUrl, repoUrl, techStack } = project
+
+    const cardContent = (
         <div className="bg-white dark:bg-neutral-800 rounded shadow overflow-hidden">
             {photoUrl && (
                 <div className="mb-0">
@@ -47,6 +48,17 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
             </div>
         </div>
     )
+  
+    return repoUrl ? (
+        <a 
+            href={repoUrl} 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="block transition-shadow duration-300 hover:shadow-xl dark:hover:shadow-[0_4px_8px_rgba(0,0,0,0.5)]"
+        >
+            {cardContent}
+        </a>
+    ) : cardContent
 }
   
 export default ProjectCard
