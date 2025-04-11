@@ -1,8 +1,11 @@
+import HeroSection from '../../components/HeroSection/HeroSection'
 import TechStack from '../../components/Containers/TechStack/TechStack'
 
 function Home() {
   return (
-    <div className="container mx-auto p-4">
+    <div className="container-4xl p-4">
+
+      <HeroSection />
 
       <div className="mb-6">
         <h2 className="text-3xl font-bold mb-4 dark:text-white">Tech Stack</h2>
