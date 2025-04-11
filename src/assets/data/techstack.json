@@ -1,0 +1,32 @@
+[
+    {
+        "icon": "/edvintopa/logos/dotnet.svg",
+        "title": ".NET (ASP & Blazor)",
+        "description": "Favourite backend and fullstack framework"
+    },
+    {
+        "icon": "/edvintopa/logos/typescript.svg",
+        "title": "TypeScript",
+        "description": "JavaScript++, awesome with types"
+    },
+    {
+        "icon": "/edvintopa/logos/tailwind.svg",
+        "title": "Tailwind",
+        "description": "To make things beautiful"
+    },
+    {
+        "icon": "/edvintopa/logos/bootstrap.svg",
+        "title": "Bootstrap",
+        "description": "When I need to make something fast"
+    },
+    {
+        "icon": "/edvintopa/logos/springboot.svg",
+        "title": "Spring Boot",
+        "description": "Very flexible backend framework"
+    },
+    {
+        "icon": "/edvintopa/logos/docker.svg",
+        "title": "Docker",
+        "description": "Great for deploying anywhere"
+    }
+]

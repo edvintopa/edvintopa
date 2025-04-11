@@ -83,6 +83,7 @@
     {
       "header": "Mini Marketplace",
       "description": "A school project where the team was tasked with creating an online store. The backend I built was done in Java Spring Boot and had security features such as authentication with JWT.",
+      "repoUrl": "https://github.com/edvintopa/mini-marketplace",
       "techStack": [
         {
           "name": "Docker",
