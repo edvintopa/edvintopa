@@ -5,7 +5,10 @@ const HeroSection: React.FC = () => {
   const scrollToContent = () => {
     const element = document.getElementById('tech-stack')
     if (element) {
-      element.scrollIntoView({ behavior: 'smooth' })
+      const offset = -80
+      const y =
+        element.getBoundingClientRect().top + window.pageYOffset + offset
+      window.scrollTo({ top: y, behavior: 'smooth' })
     }
   }
 
